@@ -161,3 +161,7 @@ Extraiga en un nuevo data frame los países de Centroamérica con esperanza de v
 centroamerica_mayor <- centro_america [1:3, ]
 plot(centroamerica_mayor['lifeExp'], main = 'Esperanza de vida mayor o igual a 74 años en países centroamericanos')
 ```
+
+### Extra
+Uso de GIT por medio de la terminal para efectura los cambios en el repositorio de GitHub
+![Uso terminal](https://github.com/Aaronblancod/laboratorio-03-r-datos-vectoriales-1/blob/master/Uso%20terminal.png?raw=true)
